@@ -87,3 +87,17 @@ Dive deeper into the full write-ups for each methodology — including project w
 > 📚 *Each article highlights how structured methodologies like CRISP-DM, SEMMA, and KDD shape the data science workflow — from exploration to deployment and knowledge extraction.*
 
 
+## 🎥 YouTube Walkthroughs  
+
+Watch complete video walkthroughs for each project — covering dataset overview, step-by-step methodology, model building, and interpretation of results.  
+
+- [**CRISP-DM:** Customer Churn Prediction Walkthrough](https://www.youtube.com/your-crispdm-link)  
+  A full guided explanation of the CRISP-DM project — including data understanding, feature engineering, model comparison (Logistic Regression, Random Forest, XGBoost), and evaluation with ROC and F1 metrics.
+
+- [**SEMMA:** Student Performance Prediction Walkthrough](https://www.youtube.com/your-semma-link)  
+  A visual exploration of the SEMMA process — from sampling and exploration to regression modeling with XGBoost, showing how behavioral and academic factors influence performance.
+
+- [**KDD:** Credit Card Fraud Detection Walkthrough](https://www.youtube.com/your-kdd-link)  
+  A detailed video on applying the KDD process to detect fraud — explaining both supervised (Logistic Regression + SMOTE) and unsupervised (Isolation Forest) modeling approaches and how to interpret the results.
+
+> 🎧 *Each video is a concise, 5–8 minute project walkthrough designed for presentation and portfolio demonstration.*
