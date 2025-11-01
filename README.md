@@ -94,7 +94,7 @@ Watch complete video walkthroughs for each project — covering dataset overview
 - [**CRISP-DM:** Customer Churn Prediction Walkthrough](https://www.youtube.com/watch?v=gW9dZkfp6H8)  
   A full guided explanation of the CRISP-DM project — including data understanding, feature engineering, model comparison (Logistic Regression, Random Forest, XGBoost), and evaluation with ROC and F1 metrics.
 
-- [**SEMMA:** Student Performance Prediction Walkthrough](https://www.youtube.com/your-semma-link)  
+- [**SEMMA:** Student Performance Prediction Walkthrough](https://www.youtube.com/watch?v=tiVRy0fDstk)  
   A visual exploration of the SEMMA process — from sampling and exploration to regression modeling with XGBoost, showing how behavioral and academic factors influence performance.
 
 - [**KDD:** Credit Card Fraud Detection Walkthrough](https://www.youtube.com/your-kdd-link)  
