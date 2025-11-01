@@ -72,4 +72,19 @@ Python · Pandas · NumPy · Scikit-learn · XGBoost · Matplotlib · Seaborn ·
 Install dependencies:
 ```bash
 pip install -r requirements.txt
+## 📰 Medium Articles  
+
+Dive deeper into the full write-ups for each methodology — including project walkthroughs, visuals, and reflections on results and learning outcomes.  
+
+- [**CRISP-DM:** Predicting Customer Churn — Step by Step](https://medium.com/@siddharthrao.kartik/article-1-crisp-dm-predicting-customer-churn-step-by-step-c31de2d5fb7a)  
+  A business-driven case study that walks through all six CRISP-DM phases — from defining churn objectives to deploying an interpretable XGBoost model for telecom retention.
+
+- [**SEMMA:** Predicting Student Performance](https://medium.com/@siddharthrao.kartik/article-2-semma-predicting-student-performance-1c282dc3b62d)  
+  A behavioral data analysis project using the SEMMA methodology to predict student exam grades, featuring exploratory correlations and interpretable regression modeling.
+
+- [**KDD:** Detecting Credit Card Fraud](https://medium.com/@siddharthrao.kartik/article-3-kdd-detecting-credit-card-fraud-2aee36c3aff9)  
+  A research-oriented knowledge discovery project applying both supervised and unsupervised learning to uncover fraud patterns in large-scale transaction data.
+
+> 📚 *Each article highlights how structured methodologies like CRISP-DM, SEMMA, and KDD shape the data science workflow — from exploration to deployment and knowledge extraction.*
+
 
