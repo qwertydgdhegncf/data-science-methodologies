@@ -68,10 +68,9 @@ Detect fraudulent transactions using both **supervised** and **unsupervised** le
 
 ## ⚙️ Tools & Libraries
 Python · Pandas · NumPy · Scikit-learn · XGBoost · Matplotlib · Seaborn · Imbalanced-learn
-
-Install dependencies:
-```bash
 pip install -r requirements.txt
+
+
 ## 📰 Medium Articles  
 
 Dive deeper into the full write-ups for each methodology — including project walkthroughs, visuals, and reflections on results and learning outcomes.  
