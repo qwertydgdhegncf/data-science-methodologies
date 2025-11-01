@@ -97,7 +97,7 @@ Watch complete video walkthroughs for each project — covering dataset overview
 - [**SEMMA:** Student Performance Prediction Walkthrough](https://www.youtube.com/watch?v=tiVRy0fDstk)  
   A visual exploration of the SEMMA process — from sampling and exploration to regression modeling with XGBoost, showing how behavioral and academic factors influence performance.
 
-- [**KDD:** Credit Card Fraud Detection Walkthrough](https://www.youtube.com/your-kdd-link)  
+- [**KDD:** Credit Card Fraud Detection Walkthrough](https://www.youtube.com/watch?v=XLc31gGFMSI)  
   A detailed video on applying the KDD process to detect fraud — explaining both supervised (Logistic Regression + SMOTE) and unsupervised (Isolation Forest) modeling approaches and how to interpret the results.
 
 > 🎧 *Each video is a concise, 3-4 minute project walkthrough designed for presentation and portfolio demonstration.*
