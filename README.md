@@ -91,7 +91,7 @@ Dive deeper into the full write-ups for each methodology — including project w
 
 Watch complete video walkthroughs for each project — covering dataset overview, step-by-step methodology, model building, and interpretation of results.  
 
-- [**CRISP-DM:** Customer Churn Prediction Walkthrough](https://www.youtube.com/your-crispdm-link)  
+- [**CRISP-DM:** Customer Churn Prediction Walkthrough](https://www.youtube.com/watch?v=gW9dZkfp6H8)  
   A full guided explanation of the CRISP-DM project — including data understanding, feature engineering, model comparison (Logistic Regression, Random Forest, XGBoost), and evaluation with ROC and F1 metrics.
 
 - [**SEMMA:** Student Performance Prediction Walkthrough](https://www.youtube.com/your-semma-link)  
@@ -100,4 +100,4 @@ Watch complete video walkthroughs for each project — covering dataset overview
 - [**KDD:** Credit Card Fraud Detection Walkthrough](https://www.youtube.com/your-kdd-link)  
   A detailed video on applying the KDD process to detect fraud — explaining both supervised (Logistic Regression + SMOTE) and unsupervised (Isolation Forest) modeling approaches and how to interpret the results.
 
-> 🎧 *Each video is a concise, 5–8 minute project walkthrough designed for presentation and portfolio demonstration.*
+> 🎧 *Each video is a concise, 3-4 minute project walkthrough designed for presentation and portfolio demonstration.*
